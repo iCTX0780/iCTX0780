@@ -4,8 +4,8 @@
 
 ### Full Stack Developer | Frontend Specialist | Cloud Enthusiast | AI-Assisted Development
 
-[![GitHub followers](https://img.shields.io/github/followers/infinitecontext?label=Follow&style=social)](https://github.com/infinitecontext)
-[![Profile Views](https://komarev.com/ghpvc/?username=infinitecontext&color=blue&style=flat)](https://github.com/infinitecontext)
+[![GitHub followers](https://img.shields.io/github/followers/iCTX0780?label=Follow&style=social)](https://github.com/iCTX0780)
+[![Profile Views](https://komarev.com/ghpvc/?username=iCTX0780&color=blue&style=flat)](https://github.com/iCTX0780)
 
 </div>
 
@@ -20,9 +20,9 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iCTX0780/iCTX0780/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iCTX0780/iCTX0780/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iCTX0780/iCTX0780/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -182,8 +182,8 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-infinitecontext-181717?style=for-the-badge&logo=github)](https://github.com/infinitecontext)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shady_Abdelhamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shady-abdelhamid/)
+[![GitHub](https://img.shields.io/badge/GitHub-iCTX0780-181717?style=for-the-badge&logo=github)](https://github.com/iCTX0780)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shadi_Abdelhamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadi-abdelhamid/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO7IqyJbtWts191fPzI0PuQ)
 
 > 📺 **YouTube Channel Note**: Not currently active, but will soon start an intro course for the most needed skills for any type of development!
@@ -196,7 +196,7 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinitecontext&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iCTX0780&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -206,10 +206,10 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinitecontext&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iCTX0780&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinitecontext&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iCTX0780&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitecontext&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iCTX0780&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
